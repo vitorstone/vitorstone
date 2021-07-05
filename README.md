@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Vitor Stone, an Electrical Engineering Student from Brazil 🇧🇷, currently, I'm a Software Engineer. I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Super Smash Bros Melee for the Nintendo GameCube.
+Hi, I'm Vitor Stone, an Electrical Engineering Student from Brazi :brazil: , currently, I'm a Software Engineer. I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Super Smash Bros Melee for the Nintendo GameCube.
 
 <!--
 **vitorstone/vitorstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
