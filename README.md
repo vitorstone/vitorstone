@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧🇷 , living in Canada 🇨🇦 . I'm a creative problem solving enthusiast, with a constantly growing love for languages. Besides programming, I enjoy Super Smash Bros Melee for the Nintendo GameCube.
+Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧🇷 , living in Canada 🇨🇦 . I'm a creative problem solving enthusiast, with a constantly growing love for languages. Besides programming, ...
 
 ## Languages
 
