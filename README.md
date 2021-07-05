@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/vitorstone/">
   <img align="left" alt="Vitor's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vitorstone/">
+<a href="https://api.whatsapp.com/send?phone=5592982658109">
   <img align="left" alt="Vitor's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <!--
