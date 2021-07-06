@@ -10,8 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧🇷 , living in Canada 🇨🇦 . I'm a creative problem solving enthusiast, with a constantly growing love for languages. Besides programming, ...
-
+Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧🇷 , living in Canada 🇨🇦 . I'm a creative problem solving enthusiast, 
 ## Languages
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
