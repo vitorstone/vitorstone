@@ -32,7 +32,7 @@ _"Hi, I'm Vitor Stone, a 4th year Electrical Engineering student from Brazil, li
 - 💬 You can also ask me anything, Math, Physics, Programming, Electrical Engineering, etc. I'd be glad to help!
 - 📫 How to reach me: vitor.oliveira@ontariotechu.net , LinkedIn or WhatsApp. 
 
-- ⚡ Fun fact: I can solve a Rubik's Cube blindfolded. 
+- ⚡ Fun fact: I can solve a Rubik's Cube blindfolded. Btw, the guy on my profile pic is the famous mathematician Carl Friedrich Gauss.
 ---
 ### Languages
 
@@ -41,7 +41,7 @@ _"Hi, I'm Vitor Stone, a 4th year Electrical Engineering student from Brazil, li
 <img  align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img  align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
 
-![image](https://user-images.githubusercontent.com/80420508/124706625-9d111c80-dec5-11eb-918f-1f43b310452a.png)
+![image](https://user-images.githubusercontent.com/80420508/124706625-9d111c80-dec5-11eb-918f-1f43b310452a.png)</br>
 ### Tools and Frameworks
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img  align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
