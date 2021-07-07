@@ -1,22 +1,23 @@
-### Hey 👋🏽, I'm Vitor!
 
-<a href="https://www.linkedin.com/in/vitorstone/">
-  <img align="left" alt="Vitor's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=5592982658109">
-  <img align="left" alt="Vitor's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
+### <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="30">```console.log('Hello, world!')```&nbsp; I'm Vitor! <img src="https://media.giphy.com/media/LQo5HzZnmZQ74Uc8tI/giphy.gif" width="30">
+
+
+
+<div align="center">
+<img  src="https://media.giphy.com/media/YO55LVVJc7G7yH62Wp/giphy.gif" width="150">
+<img  src="https://media.giphy.com/media/AJyZ8pe5wK2GIGwjvX/giphy.gif" width="170">
+</div>
 
 <br />
 <br />
 
-Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧🇷 , living in Canada 🇨🇦 . I'm a very dedicated guy towards anything I want to commit. Sharing knowledge and exchanging experiences is also something I like a lot, specially within the developer community, where people are very united. 
+_"Hi, I'm Vitor Stone, a 4th year Electrical Engineering student from Brazil, living in Canada. I'm a very dedicated guy towards anything I want to commit. Sharing knowledge and exchanging experiences is also something I like a lot, specially within the developer community, where people are very united."_
 
-- 🔭 I’m currently working on Apartsy, a Montreal-based proptech startup that I cofounded along with 2 other friends. Apartsy is a rental marketplace mobile application that offers a fully digital experience between landlords and tenants. 
+- :house_with_garden: I’m currently working on Apartsy, a Montreal-based proptech startup that I cofounded along with 2 other friends. Apartsy is a rental marketplace mobile application that offers a fully digital experience between landlords and tenants. 
 - 🌱 I’m continuously learning Javascript, React and React Native.
 - 👯 I would be happy to collaborate with anything someone might need help with. I love sharing ideas and helping people out.
 - 💬 You can also ask me anything, Math, Physics, Programming, Electrical Engineering, etc. I'd be glad to help!
-- 📫 How to reach me: vitor.oliveira@ontariotechu.net or through my WhatsApp. 
+- 📫 How to reach me: vitor.oliveira@ontariotechu.net , LinkedIn or WhatsApp. 
 
 - ⚡ Fun fact: I can solve a Rubik's Cube blindfolded. 
 ---
@@ -37,24 +38,55 @@ Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧�
 <img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></br>  
 
+### Hosting/SaaS
+<img align="left" alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></br>
+
+### Databases
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></br>
+
 ### Also had contact with
 
 <img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></br>
+<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</br>
 
 ### Other
 
 <img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 <img align="left" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-<img align="left" alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-<img align="left" alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-<img align="left" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></br>
+<img align="left" alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+
+![SolidWorks](https://user-images.githubusercontent.com/80420508/124713886-19f4c400-decf-11eb-93c9-58a22719559a.png) ![image](https://user-images.githubusercontent.com/80420508/124714196-76f07a00-decf-11eb-8f6c-2a71541f6ba5.png)
+
+
+
+
+
 
 ---
 
 ![Vitor's GitHub status](https://github-readme-stats.vercel.app/api?username=vitorstone&show_icons=true&hide_border=true&theme=gotham)
 
-
+---
+<div align="center">
+  Thanks for visiting! Feel free to reach out to me!
+</div>
+ </br>
+<div align="center">
+<a href="https://www.linkedin.com/in/vitorstone/">
+  <img  alt="Vitor's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+ &emsp;
+<a href="https://api.whatsapp.com/send?phone=5592982658109">
+  <img  alt="Vitor's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+ &emsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vitor.oliveira@ontariotechu.net">
+  <img  alt="Vitor's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</div>
 
 
 <!--
