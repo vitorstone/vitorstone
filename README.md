@@ -75,15 +75,15 @@ _"Hi, I'm Vitor Stone, a 4th year Electrical Engineering student from Brazil, li
 </div>
  </br>
 <div align="center">
-<a href="https://www.linkedin.com/in/vitorstone/">
+<a target=”_blank” href="https://www.linkedin.com/in/vitorstone/">
   <img  alt="Vitor's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
  &emsp;
-<a href="https://api.whatsapp.com/send?phone=5592982658109">
+<a target=”_blank” href="https://api.whatsapp.com/send?phone=5592982658109">
   <img  alt="Vitor's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
  &emsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vitor.oliveira@ontariotechu.net">
+<a target=”_blank” href="https://mail.google.com/mail/?view=cm&fs=1&to=vitor.oliveira@ontariotechu.net">
   <img  alt="Vitor's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </div>
