@@ -1,5 +1,18 @@
 
 ### <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="30">```console.log('Hello, world!')```&nbsp; I'm Vitor! <img src="https://media.giphy.com/media/LQo5HzZnmZQ74Uc8tI/giphy.gif" width="30">
+<div align="left">
+<a target="_blank" href="https://www.linkedin.com/in/vitorstone/">
+  <img  alt="Vitor's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+ &emsp;
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5592982658109">
+  <img  alt="Vitor's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+ &emsp;
+<a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=vitor.oliveira@ontariotechu.net">
+  <img  alt="Vitor's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</div>
 
 
 
