@@ -25,8 +25,9 @@ Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧�
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img  align="left" alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
 <img  align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img  align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></br>
+<img  align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
 
+![image](https://user-images.githubusercontent.com/80420508/124706625-9d111c80-dec5-11eb-918f-1f43b310452a.png)
 ### Tools and Frameworks
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img  align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -39,8 +40,22 @@ Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧�
 ### Also had contact with
 
 <img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-![image](https://user-images.githubusercontent.com/80420508/124702739-ec078380-debe-11eb-871a-cdbb794a4384.png)
+<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></br>
+
+### Other
+
+<img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<img align="left" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img align="left" alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+<img align="left" alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+<img align="left" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></br>
+
+---
+
+![Vitor's GitHub status](https://github-readme-stats.vercel.app/api?username=vitorstone&show_icons=true&hide_border=true&theme=gotham)
+
+
+
 
 <!--
 **vitorstone/vitorstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
