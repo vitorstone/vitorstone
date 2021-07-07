@@ -10,7 +10,15 @@
 <br />
 <br />
 
-Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧🇷 , living in Canada 🇨🇦 . I'm a creative problem solving enthusiast, 
+Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧🇷 , living in Canada 🇨🇦 . I'm a very dedicated guy towards anything I want to commit. Sharing knowledge and exchanging experiences is also something I like a lot, specially within the developer community, where people are very united. 
+
+- 🔭 I’m currently working on Apartsy, a Montreal-based proptech startup that I cofounded along with 2 other friends. Apartsy is a rental marketplace mobile application that offers a fully digital experience between landlords and tenants. 
+- 🌱 I’m continuously learning Javascript, React and React Native.
+- 👯 I would be happy to collaborate with anything someone might need help with. As I said before, I love sharing ideas and helping people out. I'm part of various facebook and whatsapp developer groups and I try to be as active as I can, whenever I have time to do so. 
+- 💬 You can also ask me anything, Math, Physics, Programming, Electrical Engineering, etc. I'd be glad to help!
+- 📫 How to reach me: vitor.oliveira@ontariotechu.net or through my WhatsApp. 
+
+- ⚡ Fun fact: I can solve a Rubik's Cube blindfolded. 
 ## Languages
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -31,7 +39,7 @@ Hi, I'm Vitor Stone, a 4th year Electrical Engineering Student from Brazil 🇧�
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
