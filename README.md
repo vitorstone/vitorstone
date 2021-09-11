@@ -32,7 +32,7 @@ _"Hi, I'm Vitor Stone, a 4th year Electrical Engineering student from Brazil, li
 - 💬 You can also ask me anything, Math, Physics, Programming, Electrical Engineering, etc. I'd be glad to help!
 - 📫 How to reach me: vitor.oliveira@ontariotechu.net , LinkedIn or WhatsApp. 
 
-- ⚡ Fun fact: I can solve a Rubik's Cube blindfolded. Btw, the guy on my profile pic is the famous mathematician Carl Friedrich Gauss.
+- ⚡ Fun fact: I can solve a Rubik's Cube blindfolded. 
 ---
 ### Languages
 
