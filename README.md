@@ -26,7 +26,7 @@
 
 _"Hi, I'm Vitor Stone, a 4th year Electrical Engineering student from Brazil, living in Canada. I'm a very dedicated guy towards anything I want to commit. Sharing knowledge and exchanging experiences is also something I like a lot, specially within the developer community, where people are very united."_
 - 🌳 💻 Currently working at DEEP ESG, a Brazil-based startup that has created the first fully integrated, real-time, ESG platform to assess, measure and report ESG financial data within organizations and across sectors.
-- :house_with_garden: Worked on Apartsy during last summer, a Montreal-based proptech startup that I cofounded along with 2 other friends. Apartsy is a rental marketplace mobile application that offers a fully digital experience between landlords and tenants. 
+- :house_with_garden: Worked on Apartsy, a Montreal-based proptech startup that I cofounded along with 2 other friends. Apartsy is a rental marketplace mobile application that offers a fully digital experience between landlords and tenants. 
 - 🌱 I’m continuously learning Python, C++ and Javascript
 - 👯 I would be happy to collaborate with anything someone might need help with. I love sharing ideas and helping people out.
 - 💬 You can also ask me anything, Math, Physics, Programming, Electrical Engineering, etc. I'd be glad to help!
