@@ -5,7 +5,7 @@
   <img  alt="Vitor's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
  &emsp;
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5592982658109">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=12899289016">
   <img  alt="Vitor's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
  &emsp;
